@@ -1,6 +1,6 @@
 # uiPath-Bank
 
-This project contains autation testScripts for the Login, ApplyForNewAccount, FundTransfer, ApplyForALoan and LoanStatusRetrival pages of a demo uiPath Bank webSite. The tests are implemented using Page Object Model(POM) design pattern, Selenium WebDriver, Maven and Java.
+This project contains automation testScripts for the Login, ApplyForNewAccount, FundTransfer, ApplyForALoan and LoanStatusRetrival pages of a demo uiPath Bank webSite. The tests are implemented using Page Object Model(POM) design pattern, Selenium WebDriver, Maven and Java.
 
 **Getting Started**
 
